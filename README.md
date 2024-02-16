@@ -13,4 +13,4 @@ What I Did:
 Conclusion:
 The market basket analysis revealed several insights, including strong relationships between complementary products, seasonal buying patterns, and opportunities for upselling and cross-selling. These insights can be leveraged by retailers to optimize product offerings, promotions, and marketing strategies to enhance customer experience and drive sales.
 
-Skills: Microsoft Excel · Python (Programming Language) · Plotly
+Skills: Microsoft Excel · Python (Programming Language) · Pandas · Plotly
